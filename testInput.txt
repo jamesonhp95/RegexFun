@@ -1,0 +1,146 @@
+a
+123456789
+a
+123-45-6789
+a
+123 45 6789
+a
+1234567890
+a
+1-2-3-4-5-6-7-8-9
+b
+18001234567
+b
+1(800)1234567
+b
+1-(800)-123-4567
+b
+180012345678
+b
+1 8 0 0 1 2 3 4 5 6 7
+b
+1-(800)1234567
+c
+jamesonhp95@hotmail.com
+c
+jamesonhp.95@regex.net
+c
+jamesonhp_95@myEmail.com
+c
+j ames onhp95@yahoo.com
+c
+jamesonhp95@edu
+c
+jamesonhp95@.edu
+d
+price-mcmurtry, jameson-aric, h, m
+d
+price, jameson, h
+d
+price jameson h
+d
+pr ice jame so n h
+d
+price-jameson-h
+e
+01-11-1995
+e
+01/11/1995
+e
+01 11 1995
+e
+1 11 1995
+e
+01-40-2000
+e
+02-29-2018
+e
+0 2 - 2 2 - 1 2 2 2
+f
+123, Faraway, Rd
+f
+123, Northway, AVE
+f
+123, Neverland, Boulevard
+f
+124, westland, STREET
+f
+123 Faraway Rd
+f
+123, Northway, aVE
+f
+1 2 3, Neverland, b
+g
+spokane, WA, 99223
+g
+Cheney, wa, 99005
+g
+New York, NY, 99112
+g
+New York NY 99112
+g
+new york new york 99112
+g
+NotReal BD 01
+h
+12:53
+h
+1253
+h
+1800
+h
+1800:05
+h
+20:10:15
+h
+125302
+h
+1 2 3 4 5 6
+h
+1-2-3-4-5-6
+i
+12,300
+i
+$12,300
+i
+$12,300.25
+i
+12300
+i
+$ 12 300.25
+i
+12-300-25
+j
+http://www.ewu.edu
+j
+https://www.facebook-fishing-attempt.com
+j
+HTTP://WWW.CANVAS.EWU.EDU
+j
+www.ewu.edu
+j
+ewu.edu
+j
+http://www.canvas.fake
+k
+Bob#4IsCooL
+k
+AliCe#2IsAweSomE
+k
+JamesonIsCool!
+k
+jamesonhp95
+k
+JamEsoNhP95
+l
+Exception
+l
+CoNtRaPtIoN
+l
+stipulation
+l
+lion
+l
+z i o n
+l
+popcorn
